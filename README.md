@@ -1,14 +1,15 @@
 # Automatizar configuración de controladora de AP's, puerto switch / router
 
-> ADVERTENCIA! datos ficticios / caso de estudio 
+> Este es un caso de estudio.
 
 Informacion de Empresa Portugal Corp.
 -----
 ```
 Ubicación: Portugal
 Cantidad de oficinas: 1000
-Ver abajo diagrama de red, oficina generica. 
 ```
+> Disponible diagrama de red, oficina generica, ver al final.
+
 Requerimientos
 -----
 
