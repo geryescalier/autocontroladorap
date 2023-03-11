@@ -2,7 +2,7 @@
 
 > ADVERTENCIA! datos ficticios / caso de estudio 
 
-Informacion de Empresa Pato Feliz.
+Informacion de Empresa Portugal Corp.
 -----
 ```
 Ubicación: Portugal
